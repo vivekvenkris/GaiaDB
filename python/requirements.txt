@@ -1,0 +1,6 @@
+psycopg[binary]
+duckdb
+matplotlib
+numpy
+pandas
+pyvo
